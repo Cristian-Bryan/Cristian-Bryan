@@ -3,7 +3,7 @@
 <h3 align="center">Sobre mim</h3>
 
 <p align="center">
-  Sou um fissurado em tecnologia com paixão por desenvolvimento de software e inovação. Sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
+  Estudante de engenharia de sofware. Sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
 </p>
 
 ---
