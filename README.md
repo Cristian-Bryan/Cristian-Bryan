@@ -1,8 +1,5 @@
 <h1 align="center">Olá, sou Cristian Bryan</h1>
 
-
----
-
 <h3 align="center">Sobre mim</h3>
 
 <p align="center">
